@@ -1,0 +1,24 @@
+{
+  "employee": [
+    {
+      "id": "234a",
+      "FirstName": "ram",
+      "LastName": "la",
+      "Gender": "female",
+      "Age": "2000",
+      "Salary": "5555",
+      "Department": "CSE",
+      "active": true
+    },
+    {
+      "id": "dbf4",
+      "FirstName": "Ramesh",
+      "LastName": "Matta",
+      "Gender": "male",
+      "Age": "20",
+      "Salary": "30000",
+      "Department": "CSE",
+      "active": true
+    }
+  ]
+}
